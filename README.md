@@ -91,12 +91,14 @@ Evaluated the model using:
 
 ## 📁 Project Structure
 Insurance-Price-Prediction/
-├── data/
-├── notebooks/
-├── business_requirements/
-├── reports/
-└── README.md
+ ├── data/
+ ├── notebooks/
+ ├── business_requirements/
+ ├── reports/
+ ├── visuals/
+ ├── requirements.txt
+  README.md
 
-##👤 Author
+👤 Author
 - Harsh Devmurari
 - Aspiring Data Analyst | Python | SQL | Machine Learning
